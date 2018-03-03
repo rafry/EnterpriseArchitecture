@@ -1,0 +1,8 @@
+{
+  "layout": "panel",
+  "rdbmsId": "919c3d07-e3c9-4da9-b16f-a3fdbc3e2c39",
+  "hidden": false,
+  "engine": "EnterpriseArchitecture",
+  "insightName": "Multiple System Coverage Report",
+  "recipe": "DashboardInsightConfig(insights\u003d[\"EnterpriseArchitecture__da8c7683-f164-40eb-8333-f80b6d5db285\"], oldIds\u003d[\"2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962\"], layout\u003d[\"\u003cencode\u003e{\"currentLayout\":{\"config\":{\"options\":{\"type\":\"grid\",\"xCount\":\"auto\",\"yCount\":\"auto\"},\"scroll\":{\"active\":false,\"down\":true,\"up\":false},\"panels\":{\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___0\":{\"top\":0,\"left\":0,\"height\":50,\"width\":50,\"index\":0,\"panelstatus\":\"normalized\"},\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___1\":{\"top\":0,\"left\":50,\"height\":50,\"width\":50,\"index\":1,\"panelstatus\":\"normalized\"},\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___2\":{\"top\":50,\"left\":0,\"height\":50,\"width\":50,\"index\":2,\"panelstatus\":\"normalized\"},\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___3\":{\"top\":50,\"left\":50,\"height\":50,\"width\":50,\"index\":3,\"panelstatus\":\"normalized\"}}},\"selectedWidget\":\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___3\",\"availableWidgets\":[{\"widgetId\":\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___0\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___1\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___2\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget2_c8ad3a4b-59f9-4fbc-a320-76bc97ec2962___3\",\"open\":true,\"deleted\":false}]},\"selectedLayout\":\"panel\"}\u003c/encode\u003e\"] );"
+}

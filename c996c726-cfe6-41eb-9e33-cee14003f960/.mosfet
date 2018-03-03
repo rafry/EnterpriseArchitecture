@@ -1,0 +1,8 @@
+{
+  "layout": "panel",
+  "rdbmsId": "c996c726-cfe6-41eb-9e33-cee14003f960",
+  "hidden": false,
+  "engine": "EnterpriseArchitecture",
+  "insightName": "Single System Coverage Report",
+  "recipe": "DashboardInsightConfig(insights\u003d[\"EnterpriseArchitecture__003b9643-7bc2-4e1b-8fce-5c88ad7ae83f\"], oldIds\u003d[\"3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1\"], layout\u003d[\"\u003cencode\u003e{\"currentLayout\":{\"config\":{\"options\":{\"type\":\"grid\",\"xCount\":\"auto\",\"yCount\":\"auto\"},\"scroll\":{\"down\":true,\"up\":false,\"active\":false},\"panels\":{\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___0\":{\"top\":0,\"left\":0,\"height\":50,\"width\":50,\"index\":0,\"panelstatus\":\"normalized\"},\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___1\":{\"top\":0,\"left\":50,\"height\":50,\"width\":50,\"index\":1,\"panelstatus\":\"normalized\"},\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___2\":{\"top\":50,\"left\":0,\"height\":50,\"width\":50,\"index\":2,\"panelstatus\":\"normalized\"},\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___3\":{\"top\":50,\"left\":50,\"height\":50,\"width\":50,\"index\":3,\"panelstatus\":\"normalized\"}}},\"selectedWidget\":\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___3\",\"availableWidgets\":[{\"widgetId\":\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___0\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___1\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___2\",\"open\":true,\"deleted\":false},{\"widgetId\":\"SMSSWidget3_093e4b8d-1643-4e61-9ac1-adfdfdc995d1___3\",\"open\":true,\"deleted\":false}]},\"selectedLayout\":\"panel\"}\u003c/encode\u003e\"] );"
+}
